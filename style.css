@@ -63,7 +63,6 @@ body{
     display: flex;
     align-items: center;
     flex-direction: row;
-    width: clamp(425px, 100vw, 1366px);
     height: clamp(680px, 100vh, 786px );
     justify-content: space-evenly;
     
@@ -71,7 +70,6 @@ body{
 
 .page_wrapper .hero_page img{
     margin: 0;
-    width: clamp(425px, 30vw, 1366px);
     height: clamp(680px, 30vh, 786px );
     object-fit: contain;
     filter: grayscale(100%);
@@ -380,7 +378,6 @@ span{
 .sela_page{
     margin-top: 20px;
     padding: 0px;
-    width: clamp(425px, 1366px, 1366px);
     height: clamp(328px, 328px, 786px );
     display: flex;
     justify-content: center;
@@ -411,7 +408,6 @@ span{
 }
 
 .page_3R{
-    width: clamp(425px, 100%, 1366px);
     height: clamp(680px, 900px, 900px );
     display: flex;
     align-items: center;
