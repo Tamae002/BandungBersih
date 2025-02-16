@@ -193,7 +193,6 @@ body{
 
 .sebab_akibat{
     margin-top: 80px;
-    width: clamp(425px, 100vw, 1366px);
     height: 1572px;
     background-color: #0e0e0e;
     padding: 0px 0px;
